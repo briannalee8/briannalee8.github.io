@@ -9,7 +9,7 @@ image: city-1.jpg
 
 **Ways to contact me**
 
-*Email Address:* briannalee828@gmail.com
+*Email Address:* blee2@willamette.edu
 
 
 *LinkedIn:* Profile can be found [here](www.linkedin.com/in/brianna-lee-bb229b119)
