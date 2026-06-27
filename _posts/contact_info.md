@@ -4,7 +4,7 @@ title: "Contact Me"
 author: "Brianna Lee"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: lou.jpeg
 ---
 
 **Ways to contact me**
