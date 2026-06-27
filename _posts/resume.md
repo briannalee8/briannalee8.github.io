@@ -4,7 +4,7 @@ title: "Resume"
 author: "Brianna Lee"
 categories: resources
 tags: [documentation,sample]
-image: arctic-2.jpg
+image: trail.jpeg
 ---
 
 
