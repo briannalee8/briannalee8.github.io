@@ -17,6 +17,10 @@ Brianna made major contribution's to MAT-LINK's collection archetecture, scienti
 
 Using synthetic CMS data, Brianna led the development of a shiny dashboard simulating how data may be organized for a fully custom small healthcare organization using the same tools and similar organization. 
 
+(insert photo)
+
+Find the shiny app code [here](https://github.com/briannalee8/CMS_SynPuf_Dashboard)
+
 ### Using Machine Learning to Predict Ovarian Cancer Diagnosis
 
 *Not available yet!* Will link when share-able
