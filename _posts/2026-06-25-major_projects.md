@@ -4,7 +4,7 @@ title: "Major Projects"
 author: "Brianna Lee"
 categories: sample
 tags: [sample]
-image: fellowship.jpeg
+image: fellowship.png
 ---
 
 ### CDC's MAT-LINK Clinical Surveillance System
