@@ -12,7 +12,7 @@ image: louise.jpeg
 *Email Address:* blee2@willamette.edu
 
 
-*LinkedIn Profile:* https://www.linkedin.com/in/brianna-lee-data-scientist/
+*LinkedIn Profile:* Linked [here](https://www.linkedin.com/in/brianna-lee-data-scientist/)
 
 
 
