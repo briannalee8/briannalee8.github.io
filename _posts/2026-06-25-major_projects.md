@@ -21,4 +21,4 @@ Find the shiny app code [here](https://github.com/briannalee8/CMS_SynPuf_Dashboa
 
 ### Using Machine Learning to Predict Ovarian Cancer Diagnosis
 
-*Not available yet!* Will link when share-able
+Find project code documentation [here](https://github.com/wu-msds-capstones/project-workbook-brianna-lee)
